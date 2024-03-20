@@ -1,5 +1,5 @@
 ## PERMISO  <img align="right" src="https://github.com/Permiso-io-tools/.github/blob/main/permiso.jpg" height="80" width="80"/>
-[Permiso.io](https://permiso.io)  |  [Product](https://permiso.io/product/)  |  [About](https://permiso.io/about)  |  [Blogs](https://permiso.io/blogs)  |  [Contact](https://permiso.io/contact)
+[Permiso.io](https://permiso.io)  |  [Product](https://permiso.io/product/)  |  [About](https://permiso.io/about)  |  [Blogs](https://permiso.io/blog)  |  [Contact](https://permiso.io/contact)
 ***
 ### Check out our featured tools:
 - [CloudGrappler](https://github.com/Permiso-io-tools/CloudGrappler)
