@@ -21,10 +21,8 @@ Protecting identities in a modern digital enterprise is complex when they move a
 ### Identity, identity, identity.
 Identity-related issues are behind 94% of breaches. Compromised access keys, blind spots, confusing policies, unsafe vendors! Permiso matches up key events to key identities so you see who is doing exactly what with a fast alert in plain English and a plan to respond. 
 
-<img align="left" src="https://permiso.io/hubfs/Product.webp" height="250" width="300"/>
-<img align="right" src="https://github.com/Permiso-io-tools/.github/blob/main/icon2.png" height="200" width="350"/>
+<img src="https://permiso.io/hubfs/Product.webp" height="250" width="300"/><img align="right" src="https://github.com/Permiso-io-tools/.github/blob/main/icon2.png" height="200" width="350"/>
 
-<br clear="left"/>
 <br/>
 <br/>
 
