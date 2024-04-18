@@ -2,6 +2,7 @@
 [Product](https://permiso.io/product/)  |  [About](https://permiso.io/about)  |  [Blog](https://permiso.io/blog)  |  [Contact](https://permiso.io/contact)
 ***
 ### Check out our featured tools:
+- [CloudConsoleCartographer](https://github.com/Permiso-io-tools/CloudConsoleCartographer) - ⭐ As featured at Black Hat Asia 2024 ⭐
 - [CloudGrappler](https://github.com/Permiso-io-tools/CloudGrappler)
 - [LogLicker](https://github.com/Permiso-io-tools/LogLicker)
 ***
