@@ -2,6 +2,7 @@
 [Product](https://permiso.io/product/)  |  [About](https://permiso.io/about)  |  [Blog](https://permiso.io/blog)  |  [Contact](https://permiso.io/contact)
 ***
 ### Check out our featured tools:
+- [Azure Activity Log Axe](https://github.com/Permiso-io-tools/azure-activity-log-axe) - ⭐ As featured at Fwd:cloudsec 2024 ⭐
 - [YetiHunter](https://github.com/Permiso-io-tools/YetiHunter)
 - [CloudConsoleCartographer](https://github.com/Permiso-io-tools/CloudConsoleCartographer) - ⭐ As featured at Black Hat Asia 2024 ⭐
 - [CloudGrappler](https://github.com/Permiso-io-tools/CloudGrappler)
